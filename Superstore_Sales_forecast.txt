@@ -1,0 +1,20 @@
+vTask 1 – Superstore Sales Forecasting using Prophet
+----------------------------------------------------
+
+Objective:
+Analyze sales data from the past and predict future trends with the help of Facebook Prophet.
+
+Tools Used:
+• Python (data preparation and forecasting)
+• Power BI (visualization and dashboard creation)
+
+Description:
+The project was based on the Sample Superstore dataset where future sales had to be predicted. 
+The first step was to prepare a Python script that would utilize Facebook Prophet to generate sales forecasts. 
+The forecasting results were then plotted and compared to the actual sales in Power BI through the application of trend analysis and performance measurement.
+
+Outcome:
+An interactive Power BI dashboard that presents actual sales as well as the sales that have been predicted through time. 
+
+Submitted by:
+Akshay Posina
